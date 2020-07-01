@@ -1,0 +1,13 @@
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.csprojAssemblyReference.cache
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.AssemblyInfoInputs.cache
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.AssemblyInfo.cs
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.csproj.CoreCompileInputs.cache
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\bin\Debug\netcoreapp3.1\UsuarioContrasenia.exe
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\bin\Debug\netcoreapp3.1\UsuarioContrasenia.deps.json
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\bin\Debug\netcoreapp3.1\UsuarioContrasenia.runtimeconfig.json
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\bin\Debug\netcoreapp3.1\UsuarioContrasenia.runtimeconfig.dev.json
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\bin\Debug\netcoreapp3.1\UsuarioContrasenia.dll
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\bin\Debug\netcoreapp3.1\UsuarioContrasenia.pdb
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.dll
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.pdb
+C:\Users\esteban\source\repos\UsuarioContrasenia\UsuarioContrasenia\obj\Debug\netcoreapp3.1\UsuarioContrasenia.genruntimeconfig.cache
